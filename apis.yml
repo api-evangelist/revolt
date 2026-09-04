@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://developers.revolt.chat/api/', status: 302, note: 'declared website redirects to https://developers.stoat.chat/api/ — a different registrable domain (revolt.chat -> stoat.chat), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/revolt.png
 name: Revolt
 description: "Revolt open source Discord alternative"
