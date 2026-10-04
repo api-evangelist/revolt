@@ -41,7 +41,6 @@ apis:
   - name: Revolt
     description: "Revolt open source Discord alternative"
     humanURL: https://developers.revolt.chat/api/
-    baseURL: https://developers.revolt.chat/api/
     tags:
       - Social
     properties:
